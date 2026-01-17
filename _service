@@ -1,0 +1,8 @@
+<services>
+  <service name="download_files" mode="trylocal"/>
+  <service name="verify_file">
+    <param name="file">v2.13.0.tar.gz</param>
+    <param name="verifier">sha256</param>
+    <param name="checksum">848a07b7dc9a156bea372922a0cfafc9e761c9b18d8b0809703bc1bc98363605</param>
+  </service>
+</services>
