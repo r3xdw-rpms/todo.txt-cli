@@ -29,7 +29,7 @@ installation:
 
 * openSUSE Leap 16.0:
   ```shell
-  $ sudo zypper addrepo https://download.opensuse.org/repositories/home:/R3XDW:/desktop:/Leap:/16/openSUSE_Leap_16.0/home:R3XDW:desktop:Leap:16.repo
+  $ sudo zypper addrepo https://download.opensuse.org/repositories/home:/R3XDW:/desktop:/Leap:/16.0/openSUSE_Leap_16.0/home:R3XDW:desktop:Leap:16.0.repo
 
   $ sudo zypper install todo.txt-cli
   ```
